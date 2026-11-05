@@ -11,7 +11,7 @@ or executable files. The host installs files separately from the plugin runtime.
   "id": "example.purple-blocks",
   "name": "Purple Blocks",
   "version": "1.0.0",
-  "publisher": "Rosefall-a",
+  "publisher": "Obsolete Labs",
   "description": "Square corners and a very purple interface.",
   "kind": "example",
   "stylesheet": "theme.css",

@@ -1,6 +1,6 @@
 # Unnamed Tracking App themes
 
-Official and example CSS themes for the native web and phone interface.
+Official and example CSS themes published by Obsolete Labs for the native web and phone interface.
 Themes use a small `.utt` ZIP package, separate from executable `.utp` plugins.
 They have no worker, SDK permissions or automatic updates.
 
